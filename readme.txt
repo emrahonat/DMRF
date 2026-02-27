@@ -38,3 +38,6 @@ Contact
 For questions or collaboration inquiries, please contact:
 Dr. Emrah Onat
 eonat87 at yahoo.com
+
+Dr. Zeynel Deprem
+zdeprem at thk.edu.tr
